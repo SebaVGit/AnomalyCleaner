@@ -1,0 +1,8 @@
+/Others
+.Rhistory
+*.txt
+
+# Testing scripts
+Removing_Outliers.R
+Removing_Outliers_BigData_vDebug.R
+Removing_Outliers_BigData_vRelease.R
