@@ -10,12 +10,12 @@ Another important thing is that I've used a forked version of the original libra
 and you can check it [here](https://github.com/hrbrmstr/AnomalyDetection)
 
 ## Required libraries
-First you have to install the properly `AnomalyDetection` library using this\
+First you have to install the properly `AnomalyDetection` library using this:
 ```r
 install.packages("devtools")
 devtools::install_github("hrbrmstr/AnomalyDetection")
 ```
-Then the libraries that are used in this script are:\
+Then the libraries that are used in this script are:
 ```r
 library(lubridate)
 library(AnomalyDetection)
@@ -26,9 +26,9 @@ library(ggplot2)
 ## Running Example
 You can run the script using `RStudio`. This uses the data from `Test_Git.csv` which is
 a simple borehole level data set. This type of data usually has many anomalies.\
-After it runs, the script will create 2 files:\
+After it runs, the script will create 2 files:
 * **Anom_plots**\
-Where you will have all the plots of your data and its anomalies, just like this:\
+Where you will have all the plots of your data and its anomalies, just like this:
 
 <img src="Anom_Plots/Well1_Anoms.jpg" width="768" />
 
