@@ -36,7 +36,7 @@ Where you will have all the plots of your data and its anomalies, just like this
 Where you will have your dataset cleaned.
 
 ## Data's Format
-If you want to use your own data you will have to make this kind of `.csv`:
+If you want to use your own data you will have to make this kind of `.csv` files:
 | Name1 |   Tiempo1  |  Nivel1 |
 |:-----:|:----------:|:-------:|
 | Well1 | 13/10/1982 | 683.338 |
