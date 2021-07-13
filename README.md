@@ -48,7 +48,7 @@ If you want to use your own data you will have to make this kind of `.csv` files
 | Well7 | 11/12/1983 | 694.255 |
 
 Where **Name1** is the ID of the dataset. **Tiempo1** is the date of the data and **Nivel1** 
-is the observation.
+is the observation. It is important to maintain this columns names while using this version.
 ## Important
 This is just the first version, I want to add more functionalities like smoothing the output data.
 ## Contact
